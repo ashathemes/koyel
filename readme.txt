@@ -28,6 +28,7 @@ Koyel Theme is wordpress blog theme for personal use. Fully responsive design di
 
 Koyel WordPress Theme, Copyright 2021 ashathemes
 Koyel is distributed under the terms of the GNU GPL
+License URI: http://opensource.org/licenses/gpl-2.0.php
 
 == Images Screenshot ==
 * Theme Screenshot image , self created
